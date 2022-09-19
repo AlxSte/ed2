@@ -13,3 +13,4 @@ e = 6
 f = 7
 um = e * f
 print(um)
+print("bey")
