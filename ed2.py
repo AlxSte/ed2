@@ -3,3 +3,7 @@ a = 1
 b = 2
 tsum = a + b
 print(tsum)
+c = 4
+d = 2
+dele = c/d
+print(dele)
