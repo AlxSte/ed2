@@ -15,3 +15,4 @@ um = e * f
 print(um)
 print("bey")
 #текст текст
+#text 2
