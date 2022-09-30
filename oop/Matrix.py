@@ -26,8 +26,6 @@ matrix = Matrix(el_ls)
 matrix2 = Matrix(el_ls2)
 print(matrix + matrix2)
 
-git
-
 
 
 
